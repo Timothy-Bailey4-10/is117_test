@@ -77,9 +77,9 @@ Read the last two rows together. Neither column is correct. Each is a set of tra
 
 ```mermaid
 timeline
-    title Design Language: A Contested Line, Not a Ladder
+    title Design Language - A Contested Line, Not a Ladder
     1880s-1900s : Reaction against machine-made ornament
-                : "What if form followed use?"
+                : Asking what happens if form follows use
     1919-1933 : Bauhaus
               : Art plus craft, geometry, design for production
     1940s-1950s : Swiss / International Typographic Style
