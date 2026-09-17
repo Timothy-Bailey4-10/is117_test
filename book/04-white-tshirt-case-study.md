@@ -29,7 +29,7 @@ flowchart TD
     V --> POS
 
     POS[Market Presentation<br/>headline, imagery, page, price]
-    POS --> E{Honest?}
+    POS --> E{"Honest?"}
     E -->|Yes| S[A customer who got<br/>what they expected]
     E -->|No| F[A refund, a review,<br/>and a shorter brand life]
 
